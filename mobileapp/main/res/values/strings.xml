@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobileApp</string>
+    <string name="header_name">Welcome to the Family</string>
+    <string name="titleFistLogin">Mã Thành Viên</string>
+    <string name="titlePassword">Mã Pin</string>
+    <string name="titleInfoLogin">(*13 số cuối của mã thẻ  bắt đầu từ 250)</string>
+    <string name="titleButtonName">Đăng Nhập</string>
+    <string name="forgetPassword">Quên mật khẩu?</string>
+    <string name="infoMsg">Người dùng chưa có thẻ thành viên vui lòng chọn đăng ký bên dưới.</string>
+</resources>
